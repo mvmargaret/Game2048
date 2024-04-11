@@ -214,6 +214,8 @@ class ViewModel {
 		score = 0
 		addNewNumber()
 		addNewNumber()
+		isAlertUserWonShown = false
+		isAlertGameOverShown = false
 	}
 	
 	func updateAndSaveBestScore() {
