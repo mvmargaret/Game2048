@@ -4,5 +4,7 @@ This is a popular game where users should merge tiles in order to reach the numb
 
 ## Screenshots
 
-![main screen](https://github.com/mvmargaret/Game2048/blob/main/IMG_2967.PNG?raw=true)
-![main screen](https://github.com/mvmargaret/Game2048/blob/main/IMG_2968.PNG?raw=true)
+<p align="center">
+<img src="https://github.com/mvmargaret/Game2048/blob/main/IMG_2967.PNG?raw=true" width="200" />
+<img src="https://github.com/mvmargaret/Game2048/blob/main/IMG_2968.PNG?raw=true" width="200" />
+</p>
